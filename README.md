@@ -17,7 +17,7 @@
    - [KeyStrokeMidiPlayer](https://github.com/BoiledNimame/KeyStrokeMidiPlayer) : Tool for playing Midi files as in-game performances, without mods.
 - 📫 How to reach me ...
   - Discord: nimame.java
-  - Twitter: @The_Unstable_
+  - Twitter: [@The_Unstable_](https://twitter.com/The_Unstable_)
 
 <!---
 BoiledNimame/BoiledNimame is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
