@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BoiledNimame
+- Hi, 👋 I’m @BoiledNimame
    - yorosiku... (JP)
 - 👀 I’m interested in ...
    - java for make some apps
@@ -14,7 +14,7 @@
 - 🎈 Released Apps !
    - [refinedProxyReborn](https://github.com/BoiledNimame/refinedProxyReborn) : Minecraft Mod, Refined Storage's Addon for Forge 1.18.2
    - [recipeCalc](https://github.com/BoiledNimame/recipeCalc) : Calculator for crafts requiring complex intermediate materials.
-   - [KeyStrokeMidiPlayer](https://github.com/BoiledNimame/KeyStrokeMidiPlayer) : Tool for playing Midi files as in-game performances, without mods.
+   - [KeyStrokeMidiPlayer](https://github.com/BoiledNimame/KeyStrokeMidiPlayer) : Tool for playing Midi files as key inputs, without mods.
 - 📫 How to reach me ...
   - Discord: nimame.java
   - Twitter: [@The_Unstable_](https://twitter.com/The_Unstable_)
